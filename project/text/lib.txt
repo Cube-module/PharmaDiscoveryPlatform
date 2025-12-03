@@ -1,0 +1,18 @@
+
+Сейчас в df у тебя лежит уже готовая табличка с колонками примерно такого вида:
+
+indication
+
+target
+
+molecular_weight
+
+logP
+
+efficiency_score (0/1/2)
+
+toxicity_score (0/1/2)
+
+uniqueness_score (0..1)
+
+score — итоговый потенциал 0/1/2
